@@ -98,6 +98,6 @@
 
 ## 📜 License
 
-<p align="center">© 2025 Amit Yadav. All rights reserved.  
-This README and all its content are protected.  
+<p align="center">© 2025 Amit Yadav. All rights reserved. </p> 
+<p align="center">This README and all its content are protected.  
 Reproduction, reuse, or redistribution without explicit written permission is strictly prohibited.</p>
