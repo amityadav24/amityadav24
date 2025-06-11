@@ -19,18 +19,18 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working on improving my MERN stack skills through real-world projects.
-- 🌱 I’m learning DevOps basics, TypeScript, and performance optimization.
-- 💬 Ask me about web development, JavaScript, and open source contributions.
-- 🤝 I’m open to collaboration on impactful open-source projects.
-- 📫 Reach me at: ametyadav2018@gmail.com
+- 🔭 I’m currently focused on improving my MERN stack skills through hands-on projects.
+- 🌱 Exploring DevOps, TypeScript, and performance optimization techniques.
+- 💬 Ask me about web development, JavaScript, and open source collaboration.
+- 🤝 I’m open to working on impactful open-source projects with like-minded developers.
+- 📫 Reach me at: [ametyadav2018@gmail.com](mailto:ametyadav2018@gmail.com)
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,aws,react,nodejs,mongodb,html,css,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,js,aws,react,nodejs,mongodb,html,css,git,github,linux" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -69,11 +69,13 @@
 
 ## 📌 Featured Projects
 
-- 🚀 [Google Sheet Clone](https://github.com/amityadav24/googlesheetclone) — A fully functional **Google Sheets clone** built using **JavaScript**, featuring dynamic cell editing, formula handling, and multi-sheet support. [Live Demo](https://googlesheetclone24.netlify.app/)
+- 🚀 [Google Sheet Clone](https://github.com/amityadav24/googlesheetclone) — A fully functional **Google Sheets clone** built using **JavaScript**, featuring dynamic cell editing, formula evaluation, and multi-sheet support.  
+  🔗 [Live Demo](https://googlesheetclone24.netlify.app/)
 
-- 💼 [Portfolio Website](https://github.com/amityadav24/portfolio) — A minimal and responsive **personal portfolio** created with **HTML**, **CSS**, and smooth scroll animations, originally built as an early project to showcase skills and projects.
+- 💼 [Portfolio Website](https://github.com/amityadav24/portfolio) — A clean and responsive **personal portfolio** developed using **HTML**, **CSS**, and smooth scroll animations to showcase skills and early projects.
 
-- 📊 [Quiz App](https://github.com/amityadav24/quizapp) — A dynamic and interactive **quiz application** built using **HTML**, **CSS**, and **JavaScript**, designed to provide a fun and engaging way to test knowledge across various topics. [Live Demo](https://quizapp-24.netlify.app/)
+- 📊 [Quiz App](https://github.com/amityadav24/quizapp) — A fun and interactive **quiz app** built using **HTML**, **CSS**, and **JavaScript**, designed to test knowledge across various topics with real-time feedback.  
+  🔗 [Live Demo](https://quizapp-24.netlify.app/)
 
 ---
 
@@ -81,10 +83,10 @@
 
 <p align="center">
   <a href="https://tinyurl.com/4btznz7x" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/amityadav24" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
