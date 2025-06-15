@@ -72,7 +72,7 @@
 - 🚀 [Google Sheet Clone](https://github.com/amityadav24/googlesheetclone) — A fully functional **Google Sheets clone** built using **JavaScript**, featuring dynamic cell editing, formula evaluation, and multi-sheet support.  
   🔗 [Live Demo](https://googlesheetclone24.netlify.app/)
 
-- 💼 [Portfolio Website](https://github.com/amityadav24/PortfolioSite) — A clean and responsive **personal portfolio** developed using **HTML**, **CSS**, **JavaScript** with smooth scroll animations to showcase skills and key to details.
+- 💼 [Portfolio Website](https://github.com/amityadav24/PortfolioSite) — A clean and responsive **personal portfolio** developed using **HTML**, **CSS**, **JavaScript** with smooth scroll animations to showcase skills and key to details.<br/>
   🔗 [Live Demo](https://amitportfolio24.netlify.app/)
   
 - 📊 [Quiz App](https://github.com/amityadav24/quizapp) — A fun and interactive **quiz app** built using **HTML**, **CSS**, and **JavaScript**, designed to test knowledge across various topics with real-time feedback.  
