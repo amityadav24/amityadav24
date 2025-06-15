@@ -72,8 +72,9 @@
 - 🚀 [Google Sheet Clone](https://github.com/amityadav24/googlesheetclone) — A fully functional **Google Sheets clone** built using **JavaScript**, featuring dynamic cell editing, formula evaluation, and multi-sheet support.  
   🔗 [Live Demo](https://googlesheetclone24.netlify.app/)
 
-- 💼 [Portfolio Website](https://github.com/amityadav24/portfolio) — A clean and responsive **personal portfolio** developed using **HTML**, **CSS**, and smooth scroll animations to showcase skills and early projects.
-
+- 💼 [Portfolio Website](https://github.com/amityadav24/PortfolioSite) — A clean and responsive **personal portfolio** developed using **HTML**, **CSS**, **JavaScript** with smooth scroll animations to showcase skills and key to details.
+  🔗 [Live Demo](https://amitportfolio24.netlify.app/)
+  
 - 📊 [Quiz App](https://github.com/amityadav24/quizapp) — A fun and interactive **quiz app** built using **HTML**, **CSS**, and **JavaScript**, designed to test knowledge across various topics with real-time feedback.  
   🔗 [Live Demo](https://quizapp-24.netlify.app/)
 
@@ -82,12 +83,21 @@
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://tinyurl.com/4btznz7x" target="_blank">
+  <a href="http://linkedin.com/in/amit-yadav-310ba021a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/amityadav24" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://app.netlify.com/teams/amit24/projects" target="_blank">
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
   </a>
+</p>
+
+---
+
+## 💬 Quote I Live By
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it’s bad."</em><br/>
+  — <strong>Cory House</strong>
 </p>
 
 ---
